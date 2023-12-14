@@ -1,5 +1,6 @@
 ## Desafio da vaga backend do picpay
-https://camo.githubusercontent.com/49f645b5e439b0d748424412207eae5748b81d77563f866d8528f60c66b669e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 Tive o intuito de mostrar minhas habilidades em Java por meio da Orientação à Objetos, Interfaces, Herança e JPA
 
